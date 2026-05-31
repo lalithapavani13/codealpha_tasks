@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple E-commerce Store
 
 This is a minimal full-stack e-commerce example using Node.js, Express, MongoDB (Mongoose) and a plain HTML/CSS/Vanilla JS frontend in `/public`.
@@ -39,3 +40,7 @@ mongod --dbpath C:\data\db
 3. Keep `MONGO_URI` in `.env` set to `mongodb://127.0.0.1:27017/simple-ecom`.
 
 If you already have a MongoDB instance elsewhere, set `MONGO_URI` to that connection string instead.
+=======
+# codealpha_tasks
+CodeAlpha Internship Tasks - E-commerce Store and other web development projects built using HTML, CSS, JavaScript, Node.js and MongoDB
+>>>>>>> edcb5f3f12da7f4771f72e6afbc319f81bf0e60e
